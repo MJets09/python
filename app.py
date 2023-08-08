@@ -1,1 +1,6 @@
-print("The World is Yours")
+first = input("First number ")
+second = input("Second number ")
+
+sum = int(first) + int(second)
+
+print(sum)
